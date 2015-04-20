@@ -15,8 +15,8 @@ Description
 
 Autocomplete files of Sublime text editor for Sketchup plugin development
 
-[Sketchp API Method Index](http://www.sketchup.com/intl/en/developer/docs/methods)
-[Sketchp API Class Index](http://www.sketchup.com/intl/en/developer/docs/classes)
+- [Sketchp API Method Index](http://www.sketchup.com/intl/en/developer/docs/methods)
+- [Sketchp API Class Index](http://www.sketchup.com/intl/en/developer/docs/classes)
 
 Installation
 ------------
