@@ -1,0 +1,27 @@
+--- class_index_2015.rb
++++ class_index_2014.rb
+@@ -7,8 +7,6 @@
+ Behavior
+ BoundingBox
+ Camera
+-Classifications
+-ClassificationSchema
+ Color
+ Command
+ ComponentDefinition
+@@ -31,7 +29,6 @@
+ EntitiesObserver
+ Entity
+ EntityObserver
+-ExtensionLicense
+ ExtensionsManager
+ Face
+ Geom
+@@ -46,7 +43,6 @@
+ Layers
+ LayersObserver
+ Length
+-Licensing
+ Loop
+ Material
+ Materials
