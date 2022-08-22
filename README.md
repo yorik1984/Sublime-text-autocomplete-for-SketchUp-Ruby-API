@@ -7,6 +7,7 @@ Sublime text autocomplete for SketchUp Ruby API
 - *include Sketchup 2014 API autocomplete*
 
 20 Apr 2015 -- *version 2.0*
+
 - *add Sketchup 2015 API autocomplete and .diff*
 - *fixed missed methods in 2014 version of autocomplete*
 
