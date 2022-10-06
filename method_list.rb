@@ -434,8 +434,6 @@ inputpoint
 insert
 insert_column
 insert_row
-insertion_point
-insertion_point=
 inspect
 inspector_names
 install_from_archive
@@ -748,7 +746,6 @@ renumber
 reorder
 reorder_entity
 require
-require_all
 reset_camera
 reset_effects
 reset_layers
