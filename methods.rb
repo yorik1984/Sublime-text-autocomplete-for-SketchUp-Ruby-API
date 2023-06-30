@@ -1,3 +1,16 @@
+%
+*
++
+-
+<
+<=
+<=>
+==
+>
+>=
+[]
+[]=
+
 abort_operation
 activate
 active
@@ -50,7 +63,6 @@ add_point
 add_polygon
 add_section_plane
 add_separator
-add_separator_to_menu
 add_style
 add_submenu
 add_text
@@ -349,9 +361,9 @@ fov_is_height?
 frame
 georeferenced?
 get
-get_
+get_UVHelper
 get_attribute
-get_back_
+get_back_UVQ
 get_classification_value
 get_column
 get_content_size
@@ -361,7 +373,7 @@ get_default_dialog_color
 get_drawingelement_visibility
 get_element_value
 get_extension_license
-get_front_
+get_front_UVQ
 get_glued_instances
 get_i18n_datfile_info
 get_last_state
@@ -429,11 +441,14 @@ inference_locked?
 init
 initial
 initial=
+initialize
 inputbox
 inputpoint
 insert
 insert_column
 insert_row
+insertion_point
+insertion_point=
 inspect
 inspector_names
 install_from_archive
@@ -581,6 +596,7 @@ names
 namespace
 navigation_buttons_enabled=
 navigation_buttons_enabled?
+new
 new_arc
 new_from_file
 next
@@ -622,6 +638,7 @@ outer_loop
 outer_shell
 output_resolution
 output_resolution=
+overlays
 owner_type
 page
 page_behavior
@@ -750,6 +767,7 @@ reset_camera
 reset_effects
 reset_layers
 reset_style
+resize_viewport
 resource_path
 restore
 resume
@@ -799,6 +817,8 @@ send_action
 send_to_layout
 sequence_format
 sequence_format=
+sequence_type
+sequence_type=
 set
 set!
 set_attribute
@@ -859,7 +879,6 @@ show_minor?
 show_modal
 show_model_info
 show_preferences
-show_ruby_panel
 single_object?
 size
 size=
@@ -971,6 +990,8 @@ texture
 texture=
 texture_positioned?
 texture_projected?
+thumbnail_camera
+thumbnail_camera=
 time_created
 time_modified
 time_published

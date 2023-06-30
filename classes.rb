@@ -2,6 +2,7 @@ AngularDimension
 Animation
 AppObserver
 ArcCurve
+Array
 AttributeDictionaries
 AttributeDictionary
 AutoTextDefinition
@@ -43,11 +44,9 @@ ExtensionsManager
 Face
 FormattedText
 FrameChangeObserver
-Geom
 Grid
 Group
 HtmlDialog
-Http
 Image
 ImageRep
 Importer
@@ -62,9 +61,7 @@ LayerFolder
 LayerInstance
 Layers
 LayersObserver
-Layout
 Length
-Licensing
 LineStyle
 LineStyles
 LinearDimension
@@ -83,6 +80,8 @@ OptionsManager
 OptionsProvider
 OptionsProviderObserver
 OrientedBounds2d
+Overlay
+OverlaysManager
 Page
 PageInfo
 Pages
@@ -93,19 +92,16 @@ Point2d
 Point3d
 PolygonMesh
 Rectangle
-RegionalSettings
+ReferenceEntity
 RenderingOptions
 RenderingOptionsObserver
 SectionPlane
 Selection
 SelectionObserver
-Set
 ShadowInfo
 ShadowInfoObserver
 SketchUpModel
-Sketchup
 SketchupExtension
-Skp
 String
 Style
 Styles
@@ -122,7 +118,6 @@ Tools
 ToolsObserver
 Transformation
 Transformation2d
-UI
 UTM
 UVHelper
 Vector2d

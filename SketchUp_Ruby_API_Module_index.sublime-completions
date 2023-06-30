@@ -1,0 +1,13 @@
+{
+    "scope": "source.ruby",
+    "completions": [
+       "Geom",
+       "Http",
+       "Layout",
+       "Licensing",
+       "RegionalSettings",
+       "Sketchup",
+       "Skp",
+       "UI"
+    ]
+}
