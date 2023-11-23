@@ -312,6 +312,7 @@
         "LEFT_VIEW",
         "RIGHT_VIEW",
         "ISO_VIEW",
+        "NO_OVERRIDE",
         "JOIN_STYLE_MITER",
         "JOIN_STYLE_ROUND",
         "JOIN_STYLE_BEVEL",
