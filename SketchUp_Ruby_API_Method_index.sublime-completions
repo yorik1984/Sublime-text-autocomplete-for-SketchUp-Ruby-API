@@ -335,6 +335,7 @@
     "get_validation_proc",
     "glued_to",
     "green",
+    "graphics_engine",
     "grid",
     "grid_snap_enabled",
     "grid_snap_enabled?",

@@ -18,6 +18,9 @@
 23 Nov 2023 -- *version 4.1*
 - *add Sketchup 2023.1 API autocomplete*
 
+16 Oct 2024 -- *version 24.0*
+- *add Sketchup 2024.0 API autocomplete*
+
 ### Description
 
 Autocomplete files of Sublime text editor for Sketchup plugin development
